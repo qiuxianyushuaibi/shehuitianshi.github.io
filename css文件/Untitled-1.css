@@ -1,0 +1,18 @@
+/* 全局修改css */
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* 头部部分css文件 */
+header{
+    width: 1535px;
+    height: 100px;
+    background-color: black;
+}
+header .HYYJ{
+    text-align: center;
+    color: white;
+    width: 100%;
+    height: 100px;
+    line-height: 100px;
+}
